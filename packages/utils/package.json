@@ -1,0 +1,22 @@
+{
+  "name": "@imooc-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "imooc-cli-dev utils",
+  "author": "zhangteng <1845412611@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://nexus.chis.msunsoft.com:8081/repository/npm-group"
+  },
+  "scripts": {
+    "test": "echo \"Run Testing form utils\""
+  }
+}
