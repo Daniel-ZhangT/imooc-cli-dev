@@ -1,6 +1,6 @@
 {
   "name": "@imooc-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "imooc-cli-dev core",
   "author": "zhangteng <1845412611@qq.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Run Testing form core\""
   },
   "dependencies": {
-    "@imooc-cli-dev/utils": "^1.0.0"
+    "@imooc-cli-dev/utils": "^1.0.1"
   }
 }
