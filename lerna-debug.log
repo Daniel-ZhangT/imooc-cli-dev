@@ -1,0 +1,6 @@
+43 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin dev
+43 error remote: Support for password authentication was removed on August 13, 2021.
+43 error remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+43 error fatal: 'https://github.com/Daniel-ZhangT/imooc-cli-dev.git/' 鉴权失败
+43 error     at makeError (/Users/zhangteng/data/work/本地/前端架构/imooc-cli-dev/imooc-cli-dev/node_modules/execa/lib/error.js:60:11)
+43 error     at handlePromise (/Users/zhangteng/data/work/本地/前端架构/imooc-cli-dev/imooc-cli-dev/node_modules/execa/index.js:118:26)
